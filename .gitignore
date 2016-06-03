@@ -1,2 +1,6 @@
 /dep/
 /build/output/
+**/Debug/**
+**/Release/**
+Windows Build/Paho C MQTT APIs.VC.VC.opendb
+Windows Build/Paho C MQTT APIs.VC.db
